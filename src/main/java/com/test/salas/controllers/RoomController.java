@@ -1,4 +1,4 @@
-package com.test.salasControllers;
+package com.test.salas.controllers;
 
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
